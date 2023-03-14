@@ -3,8 +3,7 @@ A command line tool to that makes tinyurl links quick &amp; easy. It uses the Ti
 
 Example:
 
-[tiny-demo-2023-03-13_22.06.26.webm](https://user-images.githubusercontent.com/63665667/224832452-020f8aea-8042-4f7f-8f83-25f703bbe11e.webm)
-
+![tiny-demo](https://user-images.githubusercontent.com/63665667/224925337-2153ca95-a3a9-4d8c-ae5c-1514df3efb8c.gif)
 
 ## Installing on Linux or Windows WSL
 Make sure you have the Python dependency `requests` installed, it's needed for the API call
